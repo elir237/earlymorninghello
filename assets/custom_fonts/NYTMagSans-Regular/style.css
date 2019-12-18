@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "NYTMagSans-Regular";
+  src: url("./fonts/NYTMagSans-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/NYTMagSans-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/NYTMagSans-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/NYTMagSans-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/NYTMagSans-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/NYTMagSans-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/NYTMagSans-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

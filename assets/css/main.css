@@ -1,5 +1,11 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+@import '../custom_fonts/NYTMagSans-Blk/style.css';
+@import '../custom_fonts/NYTMagSans-Bold/style.css';
+@import '../custom_fonts/NYTMagSans-Lt/style.css';
+@import '../custom_fonts/NYTMagSans-Md/style.css';
+@import '../custom_fonts/NYTMagSans-Regular/style.css';
+
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -132,7 +138,8 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  /* font-family: "Roboto Slab", serif; */
+  font-family: "NYTMagSans-Bold";
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 1em 0; }
@@ -990,7 +997,8 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Roboto Slab", serif;
+  /* font-family: "Roboto Slab", serif; */
+  font-family: "NYTMagSans-Regular", serif;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -1499,7 +1507,8 @@ button,
   color: #548cf3 !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Roboto Slab", serif;
+  /* font-family: "Roboto Slab", serif; */
+  font-family: "NYTMagSans-Bold", serif;
   font-size: 0.8em;
   font-weight: 700;
   height: 3.5em;
@@ -2087,7 +2096,8 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: "Roboto Slab", serif;
+    /* font-family: "Roboto Slab", serif; */
+    font-family: "NYTMagSans-Regular", serif;
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
@@ -2200,7 +2210,8 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  /* font-family: "Roboto Slab", serif; */
+  font-family: "NYTMagSans-Regular", serif;
   font-weight: 400;
   letter-spacing: 0.075em;
   list-style: none;
