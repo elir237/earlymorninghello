@@ -1872,7 +1872,7 @@ button,
     #main > .inner {
       padding: 0 4em 0.1em 4em ; }
       #main > .inner > section {
-        padding: 4em 0 2em 0 ; } }
+        padding: 1em 0 2em 0 ; } }
   @media screen and (max-width: 736px) {
     #main > .inner {
       padding: 0 2em 0.1em 2em ; }
@@ -1941,7 +1941,7 @@ button,
     #sidebar > .inner > * {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
       margin: 0 0 3.5em 0;
-      padding: 0 0 3.5em 0; }
+      padding: 0 0 0 0; }
       #sidebar > .inner > * > :last-child {
         margin-bottom: 0; }
       #sidebar > .inner > *:last-child {
@@ -2093,7 +2093,7 @@ button,
     text-align: right; }
   @media screen and (max-width: 1680px) {
     #header {
-      padding-top: 5em; } }
+      padding-top: 2em; } }
   @media screen and (max-width: 736px) {
     #header {
       padding-top: 6.5em; }
